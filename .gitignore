@@ -1,0 +1,4 @@
+.virtualenvs
+data/
+model_dir/
+.idea/
